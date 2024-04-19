@@ -1,0 +1,8 @@
+C:\Users\USUARIO\LHPet\obj\Debug\net6.0\LHPet.csproj.AssemblyReference.cache
+C:\Users\USUARIO\LHPet\obj\Debug\net6.0\LHPet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\LHPet\obj\Debug\net6.0\LHPet.AssemblyInfoInputs.cache
+C:\Users\USUARIO\LHPet\obj\Debug\net6.0\LHPet.AssemblyInfo.cs
+C:\Users\USUARIO\LHPet\obj\Debug\net6.0\LHPet.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\LHPet\obj\Debug\net6.0\LHPet.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USUARIO\LHPet\obj\Debug\net6.0\LHPet.RazorAssemblyInfo.cache
+C:\Users\USUARIO\LHPet\obj\Debug\net6.0\LHPet.RazorAssemblyInfo.cs
